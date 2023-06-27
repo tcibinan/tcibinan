@@ -1,1 +1,1 @@
-![Andrey Tsibin github stats](https://github-readme-stats.vercel.app/api?username=tcibinan)
+![CV](https://github.com/tcibinan/CV/blob/gh-pages/cv.png)
